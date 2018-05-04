@@ -4,7 +4,7 @@ var multiply = (a,b) => a * b
 var divide = (a,b) => a / b
 var inc = (n) => n + 1
 var dec = (n) => n - 1
-var makeInt = (str) => 
+var makeInt = (str) => parseInt(str, 10)
 
 
 // it('inc(n) increments n and returns the result', function() {
