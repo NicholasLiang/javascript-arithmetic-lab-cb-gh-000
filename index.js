@@ -3,6 +3,7 @@ var subtract = (a,b) => a - b
 var multiply = (a,b) => a * b
 var divide = (a,b) => a / b
 var inc = (a,b) => a + 1
+var 
 
 
 // it('inc(n) increments n and returns the result', function() {
